@@ -13,7 +13,7 @@ The software calculates and displays the location for most effective deployment 
 
 ## How to use?
 ### Input
-* Input noumber of Food Grain Stackes when prompted.
+* Input number of Food Grain Stackes when prompted.
 * Input locations of each Food Grain Stack in [x,y] format (0<x<150 , 0<y<100)
 ### Output
 * Heat map of order parameter.
