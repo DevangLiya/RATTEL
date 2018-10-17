@@ -8,7 +8,8 @@ The user has to input the number of Food Grain stacks, along with their location
 The software calculates and displays the location for most effective deployment and displays the dynamics for that particular deployment location.
 
 ## Installation
-The software runs on [MATLAB](https://in.mathworks.com/store?s_tid=gn_store).
+* Install [MATLAB](https://in.mathworks.com/store?s_tid=gn_store).
+* Run RATTEL.m file with MATLAB.
 
 ## How to use?
 ### Input
